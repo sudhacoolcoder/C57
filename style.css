@@ -1,0 +1,32 @@
+body {
+
+margin: 0;
+text-align: center;
+padding-top: 800px;
+
+}
+
+.profile {
+
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+
+}
+
+#welcome {
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: #FFFFFF;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+
+
+
+
+}
